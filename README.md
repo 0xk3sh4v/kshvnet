@@ -6,7 +6,7 @@
 # INSTALLATION
 - [LINUX] Clone the project using the git framework
 ```shell
-git clone https://github.com/kshvsec/kshvnet
+git clone https://github.com/kshvkk/kshvnet
 cd kshvnet
 pip3 install -r requirements.txt
 python main.py
